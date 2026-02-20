@@ -1,0 +1,35 @@
+/* 全体の余白をなくす */
+body {
+  margin: 0;
+}
+
+/* ヘッダー */
+header {
+  background-color: #84ceef;
+  color: #fff;
+  padding: 20px;
+}
+
+/* ヘッダー内のリスト */
+header ul {
+  list-style: disc;
+  padding-left: 40px;
+}
+
+/* ページタイトル */
+h1 {
+  color: #e47292;
+  text-align: center;
+}
+
+/* 各ボックスのタイトル */
+h2 {
+  font-weight: bold;
+}
+
+/* フッター */
+footer {
+  background-color: #040000;
+  color: #fff;
+  padding: 10px;
+}
